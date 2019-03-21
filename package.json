@@ -1,0 +1,13 @@
+{
+  "name": "aws-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wbira/aws-utils.git",
+  "author": "Waldemar Bira <waldek.bira@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.425.0",
+    "dynamodb-marshaler": "^2.0.0",
+    "ramda": "^0.26.1"
+  }
+}
